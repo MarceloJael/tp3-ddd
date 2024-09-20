@@ -1,0 +1,13 @@
+C:\dev\Faculdade\Domain-Driven Design (DDD) e Arquitetura de Softwares Escaláveis com Java\TP3\tp3\src\main\java\com\tp3\petfriends\aggregate\PedidoAggregate.java
+C:\dev\Faculdade\Domain-Driven Design (DDD) e Arquitetura de Softwares Escaláveis com Java\TP3\tp3\src\main\java\com\tp3\petfriends\command\BaseCommand.java
+C:\dev\Faculdade\Domain-Driven Design (DDD) e Arquitetura de Softwares Escaláveis com Java\TP3\tp3\src\main\java\com\tp3\petfriends\command\CriarPedidoCommand.java
+C:\dev\Faculdade\Domain-Driven Design (DDD) e Arquitetura de Softwares Escaláveis com Java\TP3\tp3\src\main\java\com\tp3\petfriends\config\AxonConfig.java
+C:\dev\Faculdade\Domain-Driven Design (DDD) e Arquitetura de Softwares Escaláveis com Java\TP3\tp3\src\main\java\com\tp3\petfriends\controller\PedidoCommandController.java
+C:\dev\Faculdade\Domain-Driven Design (DDD) e Arquitetura de Softwares Escaláveis com Java\TP3\tp3\src\main\java\com\tp3\petfriends\controller\PedidoQueryController.java
+C:\dev\Faculdade\Domain-Driven Design (DDD) e Arquitetura de Softwares Escaláveis com Java\TP3\tp3\src\main\java\com\tp3\petfriends\dto\CriarPedidoRequest.java
+C:\dev\Faculdade\Domain-Driven Design (DDD) e Arquitetura de Softwares Escaláveis com Java\TP3\tp3\src\main\java\com\tp3\petfriends\event\BaseEvent.java
+C:\dev\Faculdade\Domain-Driven Design (DDD) e Arquitetura de Softwares Escaláveis com Java\TP3\tp3\src\main\java\com\tp3\petfriends\event\PedidoCriadoEvent.java
+C:\dev\Faculdade\Domain-Driven Design (DDD) e Arquitetura de Softwares Escaláveis com Java\TP3\tp3\src\main\java\com\tp3\petfriends\PetfriendsApplication.java
+C:\dev\Faculdade\Domain-Driven Design (DDD) e Arquitetura de Softwares Escaláveis com Java\TP3\tp3\src\main\java\com\tp3\petfriends\repository\PedidoRepository.java
+C:\dev\Faculdade\Domain-Driven Design (DDD) e Arquitetura de Softwares Escaláveis com Java\TP3\tp3\src\main\java\com\tp3\petfriends\service\PedidoCommandService.java
+C:\dev\Faculdade\Domain-Driven Design (DDD) e Arquitetura de Softwares Escaláveis com Java\TP3\tp3\src\main\java\com\tp3\petfriends\service\PedidoQueryService.java

@@ -1,0 +1,12 @@
+com\tp3\petfriends\command\CriarPedidoCommand.class
+com\tp3\petfriends\event\PedidoCriadoEvent.class
+com\tp3\petfriends\controller\PedidoQueryController.class
+com\tp3\petfriends\service\PedidoQueryService.class
+com\tp3\petfriends\aggregate\PedidoAggregate.class
+com\tp3\petfriends\event\BaseEvent.class
+com\tp3\petfriends\service\PedidoCommandService.class
+com\tp3\petfriends\controller\PedidoCommandController.class
+com\tp3\petfriends\PetfriendsApplication.class
+com\tp3\petfriends\command\BaseCommand.class
+com\tp3\petfriends\dto\CriarPedidoRequest.class
+com\tp3\petfriends\repository\PedidoRepository.class
